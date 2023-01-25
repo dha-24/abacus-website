@@ -1,6 +1,6 @@
-# abacus-website
-sample repo having html files only
+# Marvel Website
 
-sudo wget https://www.free-css.com/assets/files/free-css-templates/download/page270/marvel.zip
+Deplopy marvel characters using HTML, CSS etc
+
 
 
